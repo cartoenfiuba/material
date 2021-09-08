@@ -19,8 +19,7 @@ particular.
 El material de la primera clase es variado.
 
 En primer lugar está el video [Tema 1 - Parametros Coordenadas y
-Escala](https://www.youtube.com/watch?v=NbvhYU2Us-M){.recurso
-.propio}, que desarrolla la idea de paramertización del espacio como
+Escala](https://www.youtube.com/watch?v=NbvhYU2Us-M), que desarrolla la idea de paramertización del espacio como
 base para la representación. En suma, plantea la cartografía matemática
 como la creación de parametrizaciones de los espacios reográfico y de
 representación \--papel\--, construyendo sistemas de coordenadas nuevos
@@ -223,8 +222,7 @@ coordenadas elipsoidales o geodésicas.
 El material de trabajo para este tema consiste en:
 
 -   [Un video de la clase introductoria.](https://www.youtube.com/watch?v=02fSpyC9umw)
--   [Un video sobre desarrollo de proyecciónes en el elipsoide.](https://www.youtube.com/watch?v=I82XyigKkHA){.recurso
-    .propio .video}
+-   [Un video sobre desarrollo de proyecciónes en el elipsoide.](https://www.youtube.com/watch?v=I82XyigKkHA)
 -   El apunte [de geometría del elipsoide](Elipsoide.r2021.09.08.pdf) donde se desarrolla lo esencial sobre coordenadas
     elipsoidales, incluyendo la solución de los problemas necesarios
     para dar valor numérico a las mismas.
