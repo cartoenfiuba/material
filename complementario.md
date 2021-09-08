@@ -103,8 +103,6 @@ es compatible con ITRF y por lo tanto con POSGAR07.
 
 Para este ejercicio, es importante consultar:
 
-[//]: # - La [sección de tutoriales](https://campus.fi.uba.ar/course/view.php?id=1093&section=5) del campus.
-
 -   El [video de clase](https://www.youtube.com/watch?v=mT-JwzFE8SM) sobre como las coordenadas se expresan en los datos
     digitales.
 -   El [video de clase](https://www.youtube.com/watch?v=H0C2AHtowwk) aclarando el proceso de obtención de las coordenadas

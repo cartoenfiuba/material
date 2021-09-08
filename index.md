@@ -1,4 +1,20 @@
-# \#1: Cartografía Matemática, introducción
+# Material de la materia cartografía
+
+En esta sección está el material mas oficial de la cursada. Sin embargo
+existen algunos materiales con menos edición que están [en el link de materiales complementarios](complementario)
+
+## Material General
+
+Parte del material de esta sección no lo asignamos a ninguna clase en
+particular.
+
+-   El archivo [Guia de Ejercicios](Guia-r2021.09.08.pdf) es una guía de ejercicios que surgieron de exámenes
+    parciales de años anteriores.
+-   El archivo [Pautas para la Elaboración de Informes](PautasInformes.r2021.09.08.pdf) es un documento general, orientado a ayudarlos en la
+    redacción de informes. Les pedimos que lo tengan en cuenta a la hora
+    de realizar las entregas de la materia.
+
+## \#1: Cartografía Matemática, introducción
 
 El material de la primera clase es variado.
 
@@ -26,7 +42,7 @@ En segundo lugar, el material escrito es:
     de meridianos y paralelos que se genera para una carta en forma
     simple, y sirve para presentar algunos ejemplos y gráficos útiles.
 
-# \#2: Formalización Matemática: Vectore Base y Sistemas de Coordenadas
+## \#2: Formalización Matemática: Vectore Base y Sistemas de Coordenadas
 
 El material de la segunda clase profundiza lo visto en la primera.
 
@@ -39,7 +55,7 @@ El material consta de:
 1.  un video: [Tema 2 - Lineas coordenadas y Bases Vectoriales](https://www.youtube.com/watch?v=Ou2B0hfyoFM)
 2.  un apunte escrito: [Tema2 Vectores Base y Métrica](VectoresBase.r2021.09.08.pdf)
 
-# \#3: Desarrollo de Proyecciónes
+## \#3: Desarrollo de Proyecciónes
 
 En las clases anteriores se sentaron las bases para el desarrollo y
 análisis de representaciónes cartográficas cómo transformaciónes
@@ -79,7 +95,7 @@ analizar. Los dos primeros se encuentran en el anexo de bibliografía del curso.
 -   La [Lista de proyecciones cartográficas](https://en.wikipedia.org/wiki/List_of_map_projections) de Wikipedia,
     Muchas de las cuales tienen su desarrollo incluido.
 
-# \#4: Métrica de un sistema de coordenadas
+## \#4: Métrica de un sistema de coordenadas
 
 Varios de los conceptos de sistemas de coordenadas que se utilizaron en
 los temas de cartografía matemática pueden condensarse en el estudio de
@@ -94,7 +110,7 @@ Esto es lo que realizamos en los recursos que proponemos en esta sección
 -   [Clase de matriz métrica en video.](https://www.youtube.com/watch?v=l-2xfppWOY0)
 -   [Apunte de matriz métrica, transcripción del video.](Metrica.r2021.09.08.pdf)
 
-# \#5: Coordenadas sobre la Tierra
+## \#5: Coordenadas sobre la Tierra
 
 Para poder medir coordenadas sobre la tierra se debe definir un marco de
 referencia que sea accesible desde la superficie de la misma, es decir,
@@ -123,9 +139,8 @@ compatible con ITRF, y por ende con POSGAR07.
 Para ayuda en la actividad, alguno temas básicos sobre el tipo de datos
 utilizado y las transformaciones de coordenadas incluidas, se pueden
 encontrar [en el video de clase](https://www.youtube.com/watch?v=mT-JwzFE8SM).
-[//]: # Aunque también hay mucha información en la sección [de tutoriales sobre datos geográficos](https://campus.fi.uba.ar/course/view.php?id=1093&section=5)
 
-# \#6: Cartografía Temática
+## \#6: Cartografía Temática
 
 Los conceptos de cartografía temática son menos exactos que los de la
 cartografía matemática. Distintos autores proponen distintos esquemas
@@ -197,7 +212,7 @@ sus características propias:
     una materia opinable, donde encasillarse lleva a imposibilitar el
     avance en la parte práctica.
 
-# \#7: Coordenadas sobre el Elipsoide
+## \#7: Coordenadas sobre el Elipsoide
 
 Para poder desarrollar sistemas de representación utilizando un marco de
 referencia que defina la latitud y la longitud en función de un
@@ -225,7 +240,7 @@ El material de trabajo para este tema consiste en:
 
 Los últimos tres mencionados se encuentran en el anexo de bibliografía del curso.
 
-# \#8: Sistema Gauss-Krüger
+## \#8: Sistema Gauss-Krüger
 
 El sistema de coordenadas Gauss Krüger, es el sistema oficial de la
 republica argentina.
@@ -253,16 +268,6 @@ El material de trabajo para este tema consiste en:
     proyección e investigar la influencia de cada término en el
     resultado.
 
-# Material General
-
-Parte del material de esta sección no lo asignamos a ninguna clase en
-particular.
-
--   El archivo [Guia de Ejercicios](Guia-r2021.09.08.pdf) es una guía de ejercicios que surgieron de exámenes
-    parciales de años anteriores.
--   El archivo [Pautas para la Elaboración de Informes](PautasInformes.r2021.09.08.pdf) es un documento general, orientado a ayudarlos en la
-    redacción de informes. Les pedimos que lo tengan en cuenta a la hora
-    de realizar las entregas de la materia.
 
 ### Licencia:
 
